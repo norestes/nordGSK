@@ -1,3 +1,4 @@
 Initial Version 100
 Version 101 - Changed CNPJ - PDV Order to PDV - CNPJ - PROD 13_10_2015
-Version 200 - New Extractors and Files Format
+Version 102 - Updated filters to reflect State, Numeric and Text Sort like CUP DDD
+// Version 200 - New Extractors and Files Format // --> Suspended
