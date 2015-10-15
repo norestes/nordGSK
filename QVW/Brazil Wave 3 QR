@@ -1,3 +1,4 @@
-V100 - Initial Version
+V100 - Initial Version (deprecated)
 V110 - Section Access implementation + minor layout changes (prod)
-V111 - GR view = BU view
+V111 - GR view = BU view (deprecated - merged to V120)
+V120 - New Veeva Reports
