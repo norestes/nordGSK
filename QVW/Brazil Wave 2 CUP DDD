@@ -2,3 +2,4 @@ Initial Version 100
 Version 101 - Market Share Corrected on Self Bis (ignore variables were outdated)
 Version 110 - Bypassed Session Access in Order for Sales Force to be Able to See the Totals
 Version 111 - Included the Period Error Message on Cross Report
+Version 120 - Included Visited Flag for DDD
