@@ -1,4 +1,5 @@
 Initial Version 100
 Version 101 - Changed CNPJ - PDV Order to PDV - CNPJ - PROD 13_10_2015
 Version 102 - Updated filters to reflect State, Numeric and Text Sort like CUP DDD
-Version 200 - New Extractors and Files Format // Monthly
+Version 200 - New Extractors and Files Format // Monthly (Deprecated until IMS corrects it)
+Version 110 - Covered Flag, Visited Flag and Factor
