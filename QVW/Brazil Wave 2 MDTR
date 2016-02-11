@@ -4,4 +4,6 @@ Version 102 - Updated filters to reflect State, Numeric and Text Sort like CUP D
 Version 200 - New Extractors and Files Format // Monthly (Deprecated until IMS corrects it)
 Version 110 - Covered Flag, Visited Flag and Factor
 PRODUCTION -- Version 110 (13/01/2016)
+Version 110 - Minor dimension corrections
+PRODUCTION -- Version 111 (02/02/2016)
 Version 200 - Mix Layout (Based on Version 110)
