@@ -3,3 +3,4 @@ Version 200 - Adapted extrator for mix flat files
 PRODUCTION -- Version 200 (23/02/2016)
 Version 201 - Patch version - correction of wrong dose calculation
 PRODUCTION -- Version 201 (02/03/2016)
+Version 202 - Divided Fact loading in two, to minimize chances of error from fixed records
