@@ -14,3 +14,6 @@ Version 201 - Patch version, defects in prod
 Version 210 - Monthly sales force + performace issues
 PRODUCTION -- Version 210 (22/03/2016)
 Version 211 - Selection of metrics in period comparison sheets
+Version 211b - Employees and Sales Force inverted order (because of empty territories)
+PRODUCTION -- Version 211b (13/04/2016)
+Version 212 - Merge of 211 and 211b
