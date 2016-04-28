@@ -1,2 +1,4 @@
 V100 - Initial Version - all info from database tables (dev only)
 PRODUCTION -- Version 100 (23/02/2016)
+V110 - CUP tables replaced with AUDIT tables
+PRODUCTION -- Version 110 (28/04/2016)
