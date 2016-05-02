@@ -19,3 +19,5 @@ PRODUCTION -- Version 211b (13/04/2016)
 Version 212 - Merge of 211 and 211b
 Version 220 - Visited by sector/division and VP>0 as visited
 PRODUCTION -- Version 220 (29/04/2016)
+Version 221 - Visited by division includes visited by sector and textboxes from filters are now completely at sight
+PRODUCTION -- Version 221 (02/05/2016)
