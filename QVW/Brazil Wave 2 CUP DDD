@@ -23,5 +23,8 @@ Version 221 - Visited by division includes visited by sector and textboxes from 
 PRODUCTION -- Version 221 (02/05/2016)
 Version 222 - Bug corretion - MQT Total Market formula
 PRODUCTION -- Version 222 (05/05/2016)
-Version 230 - New SelfBi Product
+Version 223 - Bug corretion - Visted Doctor by Sector vs Visited Doctor by Division (2 model flags)
+PRODUCTION -- Version 223 (11/05/2016)
+Version 224 - Bug corretion - DDD Markets built by prodct (not only by brand)
+Version 230 - New SelfBi Product (including all 22x bug corretions)
 
