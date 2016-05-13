@@ -27,5 +27,7 @@ Version 223 - Bug corretion - Visted Doctor by Sector vs Visited Doctor by Divis
 PRODUCTION -- Version 223 (11/05/2016)
 Version 224 - Bug corretion - DDD Markets built by prodct (not only by brand)
 PRODUCTION -- Version 224 (12/05/2016)
-Version 230 - New SelfBi Product (including all 224 bug corretions)
+Version 225 - Minor performance changes on model (removal of usused fields)
+PRODUCTION -- Version 225 (13/05/2016)
+Version 230 - New SelfBi Product (including all 225 bug corretions)
 
