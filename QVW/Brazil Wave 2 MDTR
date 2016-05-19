@@ -11,3 +11,4 @@ PRODUCTION -- Version 200 (22/03/2016)
 Version 201 - Employees and Sales Force inverted order (because of empty territories)
 PRODUCTION -- Version 201 (13/04/2016)
 Version 202 - Changed support message to the same one as in CUP DDD and Improvement about more than one PDV selected
+Version 210 - Performance improvements and Week Days
