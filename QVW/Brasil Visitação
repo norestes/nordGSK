@@ -4,3 +4,5 @@ V101 - Traffic lights replaced by ascii objects with colors and Working Days For
 PRODUCTION -- Version 101 (10/05/2016)
 V110 - Minor performance changes on model (removal of unused fields)
 PRODUCTION -- Version 110 (13/05/2016)
+V120 - New panel sheet + minor business adjustments
+PRODUCTION -- Version 120 (25/05/2016)
