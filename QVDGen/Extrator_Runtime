@@ -8,4 +8,5 @@ Version 131 - Do not update Sales Force and Medical Panel (temp at bussiness req
 PRODUCTION -- Version 131 (29/03/2016)
 Version 132 - Restore Sales Force and Medical Panel / New Veeva table (all audit doctors) / Fato_Visitas_Planejadas_SD
 PRODUCTION -- Version 132 (28/04/2016)
-
+Version 140 - New BU Panel tables
+PRODUCTION -- Version 140 (25/05/2016)
