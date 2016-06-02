@@ -31,4 +31,4 @@ Version 225 - Minor performance changes on model (removal of usused fields)
 PRODUCTION -- Version 225 (13/05/2016)
 Version 230 - New SelfBi Product (including all 225 bug corretions)
 PRODUCTION -- Version 230 (25/05/2016)
-
+Version 231 - Navigation corrections (remove clear filters between selfbis)
