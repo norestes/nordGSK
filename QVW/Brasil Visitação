@@ -1,13 +1,15 @@
-V100 - Initial Version (based on SFD V230)
-PRODUCTION -- Version 100 (04/05/2016)
-V101 - Traffic lights replaced by ascii objects with colors and Working Days Formula
-PRODUCTION -- Version 101 (10/05/2016)
-V110 - Minor performance changes on model (removal of unused fields)
-PRODUCTION -- Version 110 (13/05/2016)
-V120 - New panel sheet + minor business adjustments
-PRODUCTION -- Version 120 (25/05/2016)
-V121 - Changed Products in BU panel + serarch by crm in panels
-PRODUCTION -- Version 121 (03/06/2016)
-V122 - New products in Biotech Panel
-PRODUCTION -- Version 122 (06/06/2016)
-V130 - DashBoard Sales Force Selection + Restore previous formula of Visits by Days, using [KPI Days Visits]
+V 1.0.0 - Initial Version (based on SFD V230)
+PRODUCTION -- Version 1.0.0 (04/05/2016)
+V 1.0.1 - Traffic lights replaced by ascii objects with colors and Working Days Formula
+PRODUCTION -- Version 1.0.1 (10/05/2016)
+V 1.1.0 - Minor performance changes on model (removal of unused fields)
+PRODUCTION -- Version 1.1.0 (13/05/2016)
+V 1.2.0 - New panel sheet + minor business adjustments
+PRODUCTION -- Version 1.2.0 (25/05/2016)
+V 1.2.1 - Changed Products in BU panel + serarch by crm in panels
+PRODUCTION -- Version 1.2.1 (03/06/2016)
+V 1.2.2 - New products in Biotech Panel
+PRODUCTION -- Version 1.2.2 (06/06/2016)
+V 1.2.3 - Restore previous formula of Visits by Days, using [KPI Days Visits] + Division Selections on Sales Force
+PRODUCTION -- Version 1.2.3 (17/06/2016)
+V 1.3.0 - All corrections in 1.2.3 + Sales Force selection on Dashboard + Samples
