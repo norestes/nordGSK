@@ -1,13 +1,14 @@
-Initial Version (100)
-Version 200 - New layout, Isaac and Elisa Changes
-Version 201 - Regions Included (deprecated)
-Version 210 - New Requirements (deprecated)
-Version 200 - No DWH, New layout, Isaac, Elisa Changes and 210 changes
-Version 201 - Corrected QVDs and App (Sort)
-Version 210 - New trends report
-PRODUCTION -- Version 210 (11/03/2016)
-Version 211 - Straight tables to Pivot (horizontal scrolling without losing dimension)
-Version 220 - Market Share - new formula for totals
-PRODUCTION -- Version 220 (12/05/2016)
-Version 230 - Lab / brand in Market Performance
+Initial Version (1.0.0)
+Version 2.0.0 - New layout, Isaac and Elisa Changes
+Version 2.0.1 - Regions Included (deprecated)
+Version 2.1.0 - New Requirements (deprecated)
+Version 2.0.0 - No DWH, New layout, Isaac, Elisa Changes and 2.1.0 changes
+Version 2.0.1 - Corrected QVDs and App (Sort)
+Version 2.1.0 - New trends report
+PRODUCTION -- Version 2.1.0 (11/03/2016)
+Version 2.1.1 - Straight tables to Pivot (horizontal scrolling without losing dimension)
+Version 2.2.0 - Market Share - new formula for totals
+PRODUCTION -- Version 2.2.0 (12/05/2016)
+Version 2.30 - Lab / brand in Market Performance
+PRODUCTION -- Version 2.3.0 (23/06/2016)
 
