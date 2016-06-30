@@ -1,7 +1,8 @@
-V100 - Initial version
-V101 - VM Report added do AD Groups (prod)
-V200 - Changed folder to dynamic variable to point to Aux Files inside Data
-PRODUCTION -- Version 200 (02/03/2016)
-V210 - Google Analytics (Viver Mais)
-V211 - SFD app replaced by Brasil Visitação
-PRODUCTION -- Version 211 (04/05/2016)
+V 1.0.0 - Initial version
+V 1.0.1 - VM Report added do AD Groups (prod)
+V 2.0.0 - Changed folder to dynamic variable to point to Aux Files inside Data
+PRODUCTION -- Version 2.0.0 (02/03/2016)
+V 2.1.0 - Google Analytics (Viver Mais)
+V 2.1.1 - SFD app replaced by Brasil Visitação
+PRODUCTION -- Version 2.1.1 (04/05/2016)
+V 2.2.0 - Viver Mais Dashboard added to AD Groups
