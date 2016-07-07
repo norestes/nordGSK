@@ -11,3 +11,4 @@ PRODUCTION -- Version 132 (28/04/2016)
 Version 140 - New BU Panel tables
 PRODUCTION -- Version 140 (25/05/2016)
 Version 150 - New Quadrant SBI tables (consultas qvw)
+Version 160 - Samples with AG and new table dim_cad_eventos
