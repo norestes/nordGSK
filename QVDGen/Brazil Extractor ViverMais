@@ -1,0 +1,4 @@
+V 1.0.0 - Initial version
+V 1.1.0 - Acumulate distinct transactions (new files only bring new data)
+V 1.2.0 - Data file changes do SecureData due to security reasons
+PRODUCTION -- Version 1.2.0 (18/07/2016)
