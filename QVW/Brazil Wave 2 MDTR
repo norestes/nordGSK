@@ -1,20 +1,21 @@
-Initial Version 100
-Version 101 - Changed CNPJ - PDV Order to PDV - CNPJ - PROD 13_10_2015
-Version 102 - Updated filters to reflect State, Numeric and Text Sort like CUP DDD
-Version 200 - New Extractors and Files Format // Monthly (Deprecated until IMS corrects it)
-Version 110 - Covered Flag, Visited Flag and Factor
-PRODUCTION -- Version 110 (13/01/2016)
-Version 110 - Minor dimension corrections
-PRODUCTION -- Version 111 (02/02/2016)
-Version 200 - Mix Layout (Based on Version 110)
-PRODUCTION -- Version 200 (22/03/2016)
-Version 201 - Employees and Sales Force inverted order (because of empty territories)
-PRODUCTION -- Version 201 (13/04/2016)
-Version 202 - Changed support message to the same one as in CUP DDD and Improvement about more than one PDV selected
-Version 210 - Performance improvements and Week Days
-PRODUCTION -- Version 210 (19/05/2016)
-Version 211 - Correction of POS to Brick mapping
-PRODUCTION -- Version 211 (25/05/2016)
-Version 212 - Patch version - week 5 days correction
-PRODUCTION -- Version 212 (14/06/2016)
-Version 220 - Prediction based on current week + Last Month in Weekly Data when Week/Month dif > 1
+Initial Version 1.0.0
+Version 1.0.1 - Changed CNPJ - PDV Order to PDV - CNPJ - PROD 13_10_2015
+Version 1.0.2 - Updated filters to reflect State, Numeric and Text Sort like CUP DDD
+Version 1.1.0 - Covered Flag, Visited Flag and Factor
+PRODUCTION -- Version 1.1.0 (13/01/2016)
+Version 1.1.0 - Minor dimension corrections
+PRODUCTION -- Version 1.1.1 (02/02/2016)
+Version 2.0.0 - Mix Layout (Based on Version 110)
+PRODUCTION -- Version 2.0.0 (22/03/2016)
+Version 2.0.1 - Employees and Sales Force inverted order (because of empty territories)
+PRODUCTION -- Version 2.0.1 (13/04/2016)
+Version 2.0.2 - Changed support message to the same one as in CUP DDD and Improvement about more than one PDV selected
+Version 2.1.0 - Performance improvements and Week Days
+PRODUCTION -- Version 2.1.0 (19/05/2016)
+Version 2.1.1 - Correction of POS to Brick mapping
+PRODUCTION -- Version 2.1.1 (25/05/2016)
+Version 2.1.2 - Patch version - week 5 days correction
+PRODUCTION -- Version 2.1.2 (14/06/2016)
+Version 2.2.0 - Prediction based on current week + Last Month in Weekly Data when Week/Month dif > 1
+Version 2.3.0 - Forecast Report
+PRODUCTION -- Version 2.3.0 (20/07/2016)
