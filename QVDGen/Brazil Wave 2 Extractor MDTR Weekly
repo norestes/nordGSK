@@ -1,4 +1,6 @@
-Version 200 - Adapted extrator for mix flat files, split fixed record readings
-PRODUCTION -- Version 200 (22/03/2016)
-Version 201 - Doses calculation to consider: Units * (STD_FACT / DSG_FACT)
-PRODUCTION -- Version 201 (01/04/2016)
+Version 2.0.0 - Adapted extrator for mix flat files, split fixed record readings
+PRODUCTION -- Version 2.0.0 (22/03/2016)
+Version 2.0.1 - Doses calculation to consider: Units * (STD_FACT / DSG_FACT)
+PRODUCTION -- Version 2.0.1 (01/04/2016)
+Version 2.1.0 - Previous and Current Fact Data
+PRODUCTION -- Version 2.1.1 (21/07/2016)
