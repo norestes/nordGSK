@@ -13,3 +13,4 @@ PRODUCTION -- Version 140 (25/05/2016)
 Version 150 - New Quadrant SBI tables (consultas qvw)
 Version 160 - Samples with AG and new table dim_cad_eventos
 PRODUCTION -- Version 160 (20/07/2016)
+Version 170 - New Survey Table for Consultas
