@@ -15,3 +15,4 @@ Version 160 - Samples with AG and new table dim_cad_eventos
 PRODUCTION -- Version 160 (20/07/2016)
 Version 170 - New Survey Table for Consultas
 Version 180 - New table for Consultas (Dim_Digital_Medicos_Email_QlikView)
+            - Added STG_Fato_* tables for executive dashboard
